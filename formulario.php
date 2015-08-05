@@ -1,4 +1,4 @@
-<?
+<?php
 require 'models/ConversorBase.php';
 require 'conversor/header.php';
 
@@ -19,7 +19,9 @@ require 'conversor/header.php';
 				<div class="row">
                 <div class="col-sm-4">
                     <span >Conversion a decimal: </span>
-                   
+                    <p><?php $modelo=new ModelCB($_POST['numero'],2);
+	$datos=$modelo->conversor();
+	echo $datos;?></p>
                 </div>
             </div>
 			</div>
