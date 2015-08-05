@@ -1,6 +1,6 @@
 <?php
-require 'header.php';
-require '../models/ConversorBase.php';
+require 'conversor/header.php';
+require 'models/ConversorBase.php';
 ?>
 
 	<style type="text/css">
@@ -29,5 +29,5 @@ require '../models/ConversorBase.php';
 </section>
 
 <?php
-require '../templates/footer.php';
+require 'templates/footer.php';
 ?>
