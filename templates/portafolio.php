@@ -15,7 +15,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="assets/img/portfolio/mat.png" class="img-responsive" alt="">
+                        <img src="assets/img/portfolio/roundicons.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Conversor de bases</h4>
@@ -43,7 +43,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="assets/img/portfolio/soon.jpg" class="img-responsive" alt="">
+                        <img src="assets/img/portfolio/treehouse.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>En desarrollo</h4>
@@ -57,7 +57,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="assets/img/portfolio/soon.jpg" class="img-responsive" alt="">
+                        <img src="assets/img/portfolio/golden.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>En desarrollo</h4>
@@ -71,7 +71,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="assets/img/portfolio/soon.jpg" class="img-responsive" alt="">
+                        <img src="assets/img/portfolio/escape.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>En desarrollo</h4>
@@ -85,7 +85,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="assets/img/portfolio/soon.jpg" class="img-responsive" alt="">
+                        <img src="assets/img/portfolio/dreams.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>En desarrollo</h4>
