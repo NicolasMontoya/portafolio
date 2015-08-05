@@ -12,7 +12,6 @@ class HomeController
 		require 'templates/container.php';
 		require 'templates/portafolio.php';
 		require 'templates/about.php';
-		require 'templates/contact.php';
 		require 'templates/footer.php';
 	}
 }

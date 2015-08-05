@@ -66,9 +66,6 @@
                         <a class="page-scroll" href="#about">Sobre mi</a>
                     </li>
             
-                    <li>
-                        <a class="page-scroll" href="#contact">Contacto</a>
-                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
