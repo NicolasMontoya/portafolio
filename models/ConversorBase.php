@@ -19,12 +19,12 @@ class ModelCB
 				if ($this->numero[$i]==',') {
 					$this->conversiones[0]=0;
 					$p=$i;
-					for ($j=0; $i <= $lenght ; $j++) { 
-						$i++;
+					for ($j=0; $i >=0 ; $j++) { 
+						$i--;
 						$this->conversiones[0]=$this->conversiones[0]+(($this->numero[$i])*(pow(2,$j)));
 					}
-					for ($k=-1; $p >= 0 ; $k--) { 
-						$p--;
+					for ($k=-1; $p <= $lenght ; $k--) { 
+						$p++;
 						$this->conversiones[0]=$this->conversiones[0]+(($this->numero[$p])*(pow(2,$k)));
 					}
 					return $this->conversiones;
