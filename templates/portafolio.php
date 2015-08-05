@@ -19,11 +19,11 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>Conversor de bases</h4>
-                        <p class="text-muted"></p>
+                        <p class="text-muted">Base 2, 8, 10, 16</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
@@ -33,11 +33,11 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>Envio de mails secreto</h4>
-                        <p class="text-muted"></p>
+                        <p class="text-muted">nada</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
@@ -47,11 +47,11 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>En desarrollo</h4>
-                        <p class="text-muted"></p>
+                        <p class="text-muted">nada</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
@@ -61,11 +61,11 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>En desarrollo</h4>
-                        <p class="text-muted"></p>
+                        <p class="text-muted">nada</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
@@ -75,11 +75,11 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>En desarrollo</h4>
-                        <p class="text-muted"></p>
+                        <p class="text-muted">nada</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
@@ -89,7 +89,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>En desarrollo</h4>
-                        <p class="text-muted"></p>
+                        <p class="text-muted">nada</p>
                     </div>
                 </div>
             </div>
