@@ -1,7 +1,30 @@
 <?php
 require 'conversor/header.php';
+
 ?>
 
+	<style type="text/css">
+	p{
+		font-size: 2em;
+		margin-left: 50px;
+	}
+	h1{
+		font-size: 2em; 
+	}
+	</style>
+	<section id="about">
+	<div class="container">
+			<div class="modal-body">
+				<div class="row">
+                <div class="col-sm-4">
+                    <span >Conversion a decimal: </span>
+                   
+                </div>
+            </div>
+			</div>
+	</div>
+
+</section>
 
 <?php
 require 'templates/footer.php';
