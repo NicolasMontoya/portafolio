@@ -59,7 +59,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-4">
-				<form role="form" method="post" action="formulario.php">
+				<form role="form" method="post" action="conversor/formulario.php">
 					<div class="form-group">
 						<label for="numero" >Ingrese numero a convertir</label>
 						<input name="numero" placeholder="Ingrese numero" type="text" class="form-control" />
