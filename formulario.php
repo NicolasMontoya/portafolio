@@ -1,4 +1,5 @@
-<?php
+<?
+require 'models/ConversorBase.php';
 require 'conversor/header.php';
 
 ?>
