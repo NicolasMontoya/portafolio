@@ -27,6 +27,7 @@ class ModelCB
 						$p--;
 						$this->conversiones[0]=$this->conversiones[0]+(($this->numero[$p])*(pow(2,$k)));
 					}
+					return $this->conversiones;
 				}
 				$this->conversiones[0]=$this->conversiones[0]+(($this->numero[$lenght-$i])*(pow(2,$i)));
 			}
