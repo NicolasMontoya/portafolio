@@ -33,7 +33,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>Envio de mails secreto</h4>
-                        <p class="text-muted">nada</p>
+                        <p class="text-muted">App correo</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -47,7 +47,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>En desarrollo</h4>
-                        <p class="text-muted">nada</p>
+                        <p class="text-muted"></p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -61,7 +61,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>En desarrollo</h4>
-                        <p class="text-muted">nada</p>
+                        <p class="text-muted"></p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -75,7 +75,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>En desarrollo</h4>
-                        <p class="text-muted">nada</p>
+                        <p class="text-muted"></p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -89,7 +89,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>En desarrollo</h4>
-                        <p class="text-muted">nada</p>
+                        <p class="text-muted"></p>
                     </div>
                 </div>
             </div>
