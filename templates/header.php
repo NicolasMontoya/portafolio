@@ -12,10 +12,10 @@
     <title>Portafolio 2015</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="../assets/css/agency.css" rel="stylesheet">
+    <link href="assets/css/agency.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="../assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
