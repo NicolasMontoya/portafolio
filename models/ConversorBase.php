@@ -35,12 +35,15 @@ class ModelCB
 						$p++;
 						$this->conversiones[0]=$this->conversiones[0]+(($this->numero[$p])*(pow(2,$k)));
 					}
-					$temp=$this->conversiones[0];
+					
 
 					return $this->conversiones;
 				}
 				$this->conversiones[0]=$this->conversiones[0]+(($this->numero[$lenght-$i])*(pow(2,$i)));
-					for ($l=0; $temp < 8 ; $l++) { 
+				$temp=$this->conversiones[0];
+					
+			}
+			for ($l=0; $temp < 8 ; $l++) { 
 
 						$tem[$l]=$temp%8;
 						$temp=floor($temp/8);
@@ -53,7 +56,6 @@ class ModelCB
 						$arr[$t]=$tem[strlen($tem)-$t];
 					}
 					$this->conversiones[1]=$arr;
-			}
 
 
 			return $this->conversiones;
