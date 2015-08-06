@@ -43,20 +43,7 @@ class ModelCB
 				$temp=$this->conversiones[0];
 					
 			}
-			for ($l=0; $temp < 8 ; $l++) { 
-
-						$tem[$l]=$temp%8;
-						$temp=floor($temp/8);
-						if (floor($temp/8) < 8) {
-							$tem[$l+1]=$temp;
-						}
-						
-					}
-					for ($t=0; t <= strlen($tem) ; $t++) { 
-						$arr[$t]=$tem[strlen($tem)-$t];
-					}
-					$this->conversiones[1]=$arr;
-
+			
 
 			return $this->conversiones;
 		}
