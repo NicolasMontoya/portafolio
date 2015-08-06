@@ -22,7 +22,9 @@ require 'models/ConversorBase.php';
                     <span >Conversion a decimal: </span>
                     <p><?php $modelo=new ModelCB($_POST['numero'],2);
 	$datos=$modelo->conversor();
-	echo $datos[0];?></p>
+	echo $datos[0];
+	echo $datos[1];?></p>
+
                 </div>
             </div>
 			</div>
