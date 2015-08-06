@@ -48,7 +48,7 @@ class ModelCB
 						$tem[$l]=$temp%8;
 						$temp=floor($temp/8);
 						if (floor($temp/8) < 8) {
-							$tem[$l+1]=$temp
+							$tem[$l+1]=$temp;
 						}
 						
 					}
